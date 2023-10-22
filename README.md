@@ -1,5 +1,7 @@
 # README.md generator
 
+https://drive.google.com/file/d/1b94H-NnTibenZoz9FIacgcxnXsQR5mdM/view - A walkthrough video demonstrating the functionality of the application. 
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
